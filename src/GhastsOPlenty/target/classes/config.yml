@@ -1,0 +1,22 @@
+#-----------------------------------------------#
+#                 GhastsOPlenty
+#
+#                    Cutzuu
+#-----------------------------------------------#
+# https://github.com/cutzuu/GhastsOPlenty
+
+# Setting this to TRUE will make it so Ghasts will always replace squids
+# The game forces squids to be in rivers/oceans.
+SquidSpam: false
+
+# Ghasts will attack each other if they try to attack you.
+# I know that logic can be improved, but I am lazy.
+GhastFriendlyFire: false
+
+# Explosive damage is negated from players.
+PlayerDamage: true
+
+# Explosive Power for Ghast Fireballs
+# Default: 3
+# Max: 100
+FireballPower: 3

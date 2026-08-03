@@ -1,0 +1,17 @@
+name: GhastsOPlenty
+version: '1.0.5'
+main: me.cutzuu.ghastsOPlenty.GhastsOPlenty
+api-version: '26.2'
+
+
+commands:
+  reloadconfig:
+    description: Reload the plugin config
+    usage: /ghastsoplenty <subcommand>
+    aliases: [ ghastsoplenty, gop, ghastsplenty ]
+    permission: ghastsoplenty.reload
+
+permissions:
+  ghastsoplenty.reload:
+    description: Allows user to reload GhastsOPlenty.
+    default: op
