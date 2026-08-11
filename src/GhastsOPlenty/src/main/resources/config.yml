@@ -13,7 +13,7 @@ SquidSpam: false
 # I know that logic can be improved, but I am lazy.
 GhastFriendlyFire: false
 
-# Explosive damage is negated from players.
+# If false, Explosive damage is negated from players.
 PlayerDamage: true
 
 # Explosive Power for Ghast Fireballs
