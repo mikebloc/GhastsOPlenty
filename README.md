@@ -23,10 +23,4 @@ Check [here](https://github.com/cutzuu/.github/blob/main/documentation/contribut
 - Squid Replacement Spam
 - Togglable Player Damage
 
-## Copyright
-### Copyright (c) 2026 Cutzuu. All rights reserved except where explicitly granted.
-
-For permissions, inquiries, or notices, contact the Copyright Holder at: 
-- x.com/cutzuuYT
-
 [All rights reserved. Mike Bloc](https://github.com/mikebloc/.github/tree/main/documentation)
