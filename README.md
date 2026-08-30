@@ -1,6 +1,6 @@
 > Plugin that replaces every mob as a Ghast.
 
-- Consider [donating!](https://ko-fi.com/cutzuu)
+- Consider [donating!](https://ko-fi.com/mikebloc)
 - Download [here!](https://modrinth.com/plugin/ghastsoplenty)
 
 ## Contributing
