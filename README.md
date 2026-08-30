@@ -29,4 +29,4 @@ Check [here](https://github.com/cutzuu/.github/blob/main/documentation/contribut
 For permissions, inquiries, or notices, contact the Copyright Holder at: 
 - x.com/cutzuuYT
 
-Full Copyright details and EULA can be found [here.](https://github.com/cutzuu/.github/tree/main/documentation)
+[All rights reserved. Mike Bloc](https://github.com/mikebloc/.github/tree/main/documentation)
