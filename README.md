@@ -4,7 +4,7 @@
 - Download [here!](https://modrinth.com/plugin/ghastsoplenty)
 
 ## Contributing
-Check [here](https://github.com/cutzuu/.github/blob/main/documentation/contributing.md) for details.
+Check [here](https://github.com/mikebloc/.github/blob/main/documentation/contributing.md) for details.
 
 
 ### All mob spawns are replaced as Ghasts except:
