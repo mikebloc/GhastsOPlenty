@@ -23,4 +23,4 @@ Check [here](https://github.com/mikebloc/.github/blob/main/documentation/contrib
 - Squid Replacement Spam
 - Togglable Player Damage
 
-[All rights reserved. Mike Bloc](https://github.com/mikebloc/.github/tree/main/documentation)
+[All rights reserved. Mike Bloc](https://github.com/mikebloc/.github/tree/main/documentation/legal.md)
